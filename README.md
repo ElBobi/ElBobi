@@ -1,6 +1,6 @@
 ### Hello! I'm Boris Radin! I'm a teen programmer and I am looking forward in becoming a full-time developer.
 
-- 🔭 I’m not currently working on a project level, but I solve problems and write smaller codes in size so I can develop myself and slowly build up to Web developing etc.
+- 🔭 I’m currently working on a project, but I solve smaller problems and write smaller codes in size so I can develop myself and slowly build up to Web developing.
 - 
 - 🌱 I’m currently learning C#.
 - 

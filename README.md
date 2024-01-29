@@ -8,5 +8,5 @@
 - 
 - 🤔 I’m looking for help with seeing what working on a big project with a group of other people looks like.
 - 
-- 📫 How to reach me: Discord: Борис Три#5415  Instagram: borisradin
+- 📫 How to reach me: Discord: Potrokal#5415, E-mail - mandarkbg@abv.bg
 
